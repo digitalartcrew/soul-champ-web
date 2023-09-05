@@ -118,7 +118,7 @@ function Footer({}: Props) {
         </div>
       </div>
       <p className="py-[1vh] text-[0.4rem] text-opacity-70 mx-auto text-center md:text-xs ">
-      © 2018-23 Soul Champ
+      © 2016-23 Soul Champ
       </p>
 
     </main>
