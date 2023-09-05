@@ -7,7 +7,7 @@ type Props = {};
 function Navbar({}: Props) {
   return (
     <>
-      <div className="bg-transparent flex w-[90%] mx-auto justify-between items-center h-24 md:h-32 lg:hidden">
+      <div className="bg-transparent flex w-[100%] mx-auto justify-between items-center h-24 md:h-32 lg:hidden">
         <Link
           href="/apply"
           className="w-[20%]  h-[30%] rounded-[40px] text-[#fe0000] text-sm md:text-base bg-white flex items-center justify-center cursor-pointer"
@@ -26,7 +26,7 @@ function Navbar({}: Props) {
       </div>
 
       {/* Desktop Navbar */}
-      <div className="bg-transparent  w-[90%] mx-auto justify-between items-center h-[7rem] hidden lg:flex">
+      <div className="bg-black z-40 w-[100%] pr-4 justify-between items-center h-[7rem] hidden lg:flex fixed top-0">
         <div className="h-full w-[11%] relative">
           <Image className="object-contain" fill src="/logo.png" alt="logo" />
         </div>
