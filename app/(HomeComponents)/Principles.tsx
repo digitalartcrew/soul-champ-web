@@ -11,10 +11,7 @@ function Principles({}: Props) {
         <span className="text-[#fe0000]"> Principles</span>
       </h1>
       <p className="text-sm md:text-lg mt-[2vh] lg:mt-[4vh] w-[95%] text-center">
-        At Soul Champ, we believe in innovation, empowerment, and community.
-        Through our unique program, we inspire individuals to embrace their
-        potential, explore cutting-edge technologies, and foster a supportive
-        network.
+        We believe that every young person deserves the opportunity to thrive and reach their full potential. By providing comprehensive programs that combine physical fitness, technological literacy, and personalized life coaching, we aim to equip youth with the skills, confidence,and resilience necessary to overcome challenges and succeed in all aspects of life.”
       </p>
       <div className="flex flex-row h-[26%] md:h-[45%] justify-between mx-auto w-[95%] mt-[5vh] ">
         <div className=" relative lg:w-[24%] w-[45%] h-full">
