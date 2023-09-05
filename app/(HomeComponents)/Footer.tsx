@@ -113,7 +113,7 @@ function Footer({}: Props) {
         </div>
       </div>
       <p className="py-[1vh] text-[0.4rem] text-opacity-70 mx-auto text-center md:text-xs ">
-      © 2018-23 SoulChamp • Privacy Policy • Site Developed by Muhammad Hassan • Site Designed by Huzaifa Ijaz
+      © 2018-23 Soul Champ
       </p>
 
     </main>
