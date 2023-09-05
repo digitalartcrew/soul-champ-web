@@ -5,7 +5,7 @@ import React, { useState } from "react";
 type Props = {};
 
 function Benefits({}: Props) {
-  const images = ["/member1.png", "/member3.png", "/member3.png"]; // Add more image URLs as needed
+  const images = ["/member4.png", "/member5.png", "/member6.png"]; // Add more image URLs as needed
 
   const [currentIndex, setCurrentIndex] = useState(0);
 
