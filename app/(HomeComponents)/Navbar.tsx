@@ -32,9 +32,9 @@ function Navbar({}: Props) {
         </div>
         <div className="flex flex-1 flex-row items-center justify-start space-x-6 ml-12 text-sm">
             <Link href="#about" className="text-white">About</Link>
-            <Link href="#about" className="text-white">Program</Link>
-            <Link href="#about" className="text-white">Application Process</Link>
-            <Link href="#about" className="text-white">Serving the Community</Link>
+            <Link href="#program" className="text-white">Program</Link>
+            <Link href="#apply" className="text-white">Application Process</Link>
+            <Link href="#community" className="text-white">Serving the Community</Link>
         </div>
         <Link
           href="/apply"

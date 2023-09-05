@@ -7,6 +7,7 @@ function Application({}: Props) {
   const backgroundImageUrl = "/signup.png";
   return (
     <main
+      id="apply"
       className="bg-cover bg-top min-h-[50vh] flex items-center "
       style={{ backgroundImage: `url(${backgroundImageUrl})` }}
     >

@@ -10,6 +10,7 @@ function Hero({}: Props) {
     <main
       className="bg-cover bg-top min-h-[100vh] "
       style={{ backgroundImage: `url(${backgroundImageUrl})` }}
+      id="about"
     >
       <div className="bg-black bg-opacity-40 z-30 min-h-[100vh] w-full flex flex-col  items-center pt-6 lg:pt-2">
         <Navbar />

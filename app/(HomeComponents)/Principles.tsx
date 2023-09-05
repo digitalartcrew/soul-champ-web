@@ -5,7 +5,7 @@ type Props = {};
 
 function Principles({}: Props) {
   return (
-    <main className="bg-black h-[50vh] flex  flex-col items-center ">
+    <main className="bg-black h-[50vh] flex  flex-col items-center " id="program">
       <h1 className="font-semibold text-2xl md:text-5xl  lg:text-4xl mt-[6vh]">
         <span className="text-white">Program </span>
         <span className="text-[#fe0000]"> Principles</span>
