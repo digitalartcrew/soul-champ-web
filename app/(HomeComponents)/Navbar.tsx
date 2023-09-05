@@ -7,7 +7,7 @@ type Props = {};
 function Navbar({}: Props) {
   return (
     <>
-      <div className="bg-transparent flex w-[100%] mx-auto justify-between items-center h-24 md:h-32 lg:hidden">
+      <div className="bg-transparent flex w-[100%] mx-auto justify-between items-center h-24 md:h-32 lg:hidden pl-4 pr-4">
         <Link
           href="/apply"
           className="w-[20%]  h-[30%] rounded-[40px] text-[#fe0000] text-sm md:text-base bg-white flex items-center justify-center cursor-pointer"
