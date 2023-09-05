@@ -5,7 +5,7 @@ import React, { useState } from "react";
 type Props = {};
 
 function Members({}: Props) {
-  const images = ["/member1.png", "/member2.png", "/member3.png"]; // Add more image URLs as needed
+  const images = ["/member3.png", "/member2.png", "/member1.png"]; // Add more image URLs as needed
 
   const [currentIndex, setCurrentIndex] = useState(0);
 
